@@ -66,15 +66,20 @@
 
                 <div class="modal-body">
                     <div class="card">
-                        <div class="card-img" style="background-image: url('@selectedProduct.Img');">
-                        </div>
-                        <div class="card-body">
-                            <p class="card-text">@selectedProduct.Description</p>
-                        </div>
+                        
+                    <div class="card-img" style="background-image: url('@selectedProduct.Img');">
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">@selectedProduct.Description</p>
+                    </div> 
+                      
                     </div>
                 </div>
 
                 <div class="modal-footer">
+                    <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">
+                        Book Seat
+                    </a>
                     @if (voteCount == 0)
                     {
                         <span>Be the first to vote!</span>
@@ -113,6 +118,7 @@
     {
         selectedProductId = productId;
         selectedProduct = ProductService.GetProducts().First(x => x.Id == productId);
+        GetCurrentRating();
     }
 
     int currentRating = 0;
@@ -136,11 +142,16 @@
 
     }
 
-    
+
     void SubmitRating(int rating)
     {
-      System.Console.WriteLine($"Rating received for {selectedProduct.Id}: {rating}");
-      ProductService.AddRating(selectedProductId, rating);
-      SelectProduct(selectedProductId);
+        System.Console.WriteLine($"Rating received for {selectedProduct.Id}: {rating}");
+        ProductService.AddRating(selectedProductId, rating);
+        SelectProduct(selectedProductId);
+    }
+
+    public void updateSeat(int a, int b)
+    {
+        a = b;
     }
 }

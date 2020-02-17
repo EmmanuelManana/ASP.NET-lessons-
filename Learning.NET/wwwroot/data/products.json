@@ -5,9 +5,20 @@
     "Img": "https://cdn.europosters.eu/image/750webp/7182.webp",
     "Url": "https://www.google.com/url?sa=i\u0026url=https%3A%2F%2Fwww.ukposters.co.uk%2Fposters%2Favatar-limited-ed-one-sheet-sun-v13494\u0026psig=AOvVaw0wpLNT_iST50P76HJUJ4Up\u0026ust=1582008851072000\u0026source=images\u0026cd=vfe\u0026ved=0CAIQjRxqFwoTCJjOp7CA2OcCFQAAAAAdAAAAABAJ",
     "Title": "Avatar",
-    "Description": " description here",
+    "Description": "On the lush alien world of Pandora live the Na\u0027vi, beings who appear primitive but are highly evolved. Because the planet\u0027s environment is poisonous, human/Na\u0027vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora.",
     "Ratings": [
-      5
+      5,
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
     ]
   },
   {
@@ -16,7 +27,7 @@
     "Img": "https://images-na.ssl-images-amazon.com/images/I/815qBTQWdnL._AC_SX385_.jpg",
     "Url": "https://www.amazon.co.uk/Terminator-Dark-Fate-BD-Blu-ray/dp/B07YXGSQN6",
     "Title": "The Teminator, the dark faith",
-    "Description": "Something about robots attacking mankind",
+    "Description": "Terminator: Dark Fate (2019) An augmented human and Sarah Connor must stop an advanced liquid Terminator, from hunting down a young girl, whose fate is critical to the human race.",
     "Ratings": [
       8
     ]
@@ -27,10 +38,23 @@
     "Img": "https://media.titanbooks.com/catalog/products/GeminiMan_art.jpg",
     "Url": "",
     "Title": "Gemini Man",
-    "Description": "turns out his fighting his clone",
+    "Description": "Gemini Man is a 2019 American action thriller film directed by Ang Lee and written by David Benioff, Billy Ray, and Darren Lemke. Starring Will Smith, Mary Elizabeth Winstead, Clive Owen, and Benedict Wong, the film follows a hitman who is targeted by a younger clone of himself while on the run from the government.",
     "Ratings": [
+      1,
+      2,
+      3,
       4,
-      4
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3
     ]
   },
   {
@@ -38,8 +62,10 @@
     "Maker": "emanana",
     "Img": "https://content.hungama.com/movie/display%20image/1280x800%20jpeg/6074703549.jpg",
     "Url": "",
-    "Title": " Poor thing lost his mind",
-    "Description": "description here",
-    "Ratings": null
+    "Title": " Joker",
+    "Description": "Joker is a 2019 American psychological thriller film directed and produced by Todd Phillips, who co-wrote the screenplay with Scott Silver. The film, based on DC Comics characters, stars Joaquin Phoenix as the Joker and provides a possible origin story for the character.",
+    "Ratings": [
+      4
+    ]
   }
 ]
