@@ -1,28 +1,7 @@
 [
+
   {
-    "Id": "avatarId",
-    "Maker": "emanana",
-    "Img": "https://cdn.europosters.eu/image/750webp/7182.webp",
-    "Url": "https://www.google.com/url?sa=i\u0026url=https%3A%2F%2Fwww.ukposters.co.uk%2Fposters%2Favatar-limited-ed-one-sheet-sun-v13494\u0026psig=AOvVaw0wpLNT_iST50P76HJUJ4Up\u0026ust=1582008851072000\u0026source=images\u0026cd=vfe\u0026ved=0CAIQjRxqFwoTCJjOp7CA2OcCFQAAAAAdAAAAABAJ",
-    "Title": "Avatar",
-    "Description": "On the lush alien world of Pandora live the Na\u0027vi, beings who appear primitive but are highly evolved. Because the planet\u0027s environment is poisonous, human/Na\u0027vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora.",
-    "Ratings": [
-      5,
-      1,
-      1,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3
-    ]
-  },
-  {
-    "Id": "I-will-be-back",
+    "Id": "back",
     "Maker": "emanana",
     "Img": "https://images-na.ssl-images-amazon.com/images/I/815qBTQWdnL._AC_SX385_.jpg",
     "Url": "https://www.amazon.co.uk/Terminator-Dark-Fate-BD-Blu-ray/dp/B07YXGSQN6",
@@ -33,28 +12,14 @@
     ]
   },
   {
-    "Id": "Gemini-man",
+    "Id": "Gemini",
     "Maker": "emanana",
     "Img": "https://media.titanbooks.com/catalog/products/GeminiMan_art.jpg",
     "Url": "",
     "Title": "Gemini Man",
     "Description": "Gemini Man is a 2019 American action thriller film directed by Ang Lee and written by David Benioff, Billy Ray, and Darren Lemke. Starring Will Smith, Mary Elizabeth Winstead, Clive Owen, and Benedict Wong, the film follows a hitman who is targeted by a younger clone of himself while on the run from the government.",
     "Ratings": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      3,
-      3,
-      3,
-      3,
-      3
+      1
     ]
   },
   {

@@ -15,6 +15,8 @@ namespace Learning.NET.Controller
     {
 
         public JsonFileProductService ProductService { get; }
+        public Product selectedProduct;
+        public string selectedProductId { set; get; }
         public ProductsController(JsonFileProductService  productService)
         {
             this.ProductService = productService;
@@ -34,6 +36,15 @@ namespace Learning.NET.Controller
             ProductService.AddRating(ProductId, Rating);
             return Ok();
 
+        }
+
+        [Route("First")]
+        [HttpGet]
+        public ActionResult Get([FromQuery] string productId)
+        {
+            selectedProductId = productId;
+            selectedProduct = ProductService.GetProducts().First(x => x.Id == productId);
+            return Ok();
         }
 
     }
