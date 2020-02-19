@@ -28,24 +28,5 @@ namespace Learning.NET.Controller
             return this.ProductService.GetProducts();
         }
 
-        //[HttpPatch] "fromBody"
-        [Route("Rate")]
-        [HttpGet]
-        public ActionResult Get([FromQuery] string ProductId, [FromQuery] int Rating)
-        {
-            ProductService.AddRating(ProductId, Rating);
-            return Ok();
-
-        }
-
-        [Route("First")]
-        [HttpGet]
-        public ActionResult Get([FromQuery] string productId)
-        {
-            selectedProductId = productId;
-            selectedProduct = ProductService.GetProducts().First(x => x.Id == productId);
-            return Ok();
-        }
-
     }
 }

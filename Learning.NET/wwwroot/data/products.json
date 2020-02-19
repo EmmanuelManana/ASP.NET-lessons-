@@ -2,9 +2,7 @@
 
   {
     "Id": "back",
-    "Maker": "emanana",
     "Img": "https://images-na.ssl-images-amazon.com/images/I/815qBTQWdnL._AC_SX385_.jpg",
-    "Url": "https://www.amazon.co.uk/Terminator-Dark-Fate-BD-Blu-ray/dp/B07YXGSQN6",
     "Title": "The Teminator, the dark faith",
     "Description": "Terminator: Dark Fate (2019) An augmented human and Sarah Connor must stop an advanced liquid Terminator, from hunting down a young girl, whose fate is critical to the human race.",
     "Ratings": [
@@ -13,9 +11,7 @@
   },
   {
     "Id": "Gemini",
-    "Maker": "emanana",
     "Img": "https://media.titanbooks.com/catalog/products/GeminiMan_art.jpg",
-    "Url": "",
     "Title": "Gemini Man",
     "Description": "Gemini Man is a 2019 American action thriller film directed by Ang Lee and written by David Benioff, Billy Ray, and Darren Lemke. Starring Will Smith, Mary Elizabeth Winstead, Clive Owen, and Benedict Wong, the film follows a hitman who is targeted by a younger clone of himself while on the run from the government.",
     "Ratings": [
@@ -24,9 +20,7 @@
   },
   {
     "Id": "joker",
-    "Maker": "emanana",
     "Img": "https://content.hungama.com/movie/display%20image/1280x800%20jpeg/6074703549.jpg",
-    "Url": "",
     "Title": " Joker",
     "Description": "Joker is a 2019 American psychological thriller film directed and produced by Todd Phillips, who co-wrote the screenplay with Scott Silver. The film, based on DC Comics characters, stars Joaquin Phoenix as the Joker and provides a possible origin story for the character.",
     "Ratings": [

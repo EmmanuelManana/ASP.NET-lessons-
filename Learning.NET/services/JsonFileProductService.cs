@@ -39,6 +39,12 @@ namespace Learning.NET.services
             }
         }
 
+        public void AddEvents(Product product)
+        {  
+            GetProducts().ToList().Add(product);
+
+        }
+
         public void AddRating(string ProductId, int rating)
         {
             //get all products
